@@ -23,7 +23,6 @@ header {
 
 header h2 {
   font-family: "Nanum Myeongjo", serif;
-
   color: white;
   margin: 0px;
   font-size: 18px;
@@ -91,11 +90,6 @@ a:hover {
 }
 a:active {
   color: #8e6db4;
-}
-
-em {
-  font-weight: bold;
-  font-style: normal;
 }
 
 footer p {
